@@ -2,4 +2,3 @@ UJI COBA
 -Uji coba github
 -Membuat form diskusi 
 -Membuat platform webiste 
--Tester
