@@ -1,2 +1,5 @@
 UJI COBA
--uji coba github
+-Uji coba github
+-Membuat form diskusi 
+-Membuat platform webiste 
+-Tester
